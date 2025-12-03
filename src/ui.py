@@ -36,7 +36,7 @@ FIELD_SIZE = CELL * BOARD
 MARKER_SIZE = 0.04
 TILE_SIZE = 0.05
 HOME_SHIFT = 0.024
-CALIBRATION_CROSS_OFFSET = np.array([0.0, -0.05])
+CALIBRATION_CROSS_OFFSET = np.array([-0.05, 0])
 
 # ────────────────────────────────
 # Helper function for marker annotation
